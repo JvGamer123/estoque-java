@@ -44,10 +44,8 @@ public class Main {
             System.out.println(comissaoConvertida);
 
 
-
         } else if (MenuConstants.CONSULTAR_CARROS == codigo) {
 
-        }
 
 //        vendedor.vender(200000);
 
@@ -62,13 +60,13 @@ public class Main {
 //        8) Usar scanner para atribuir valores da classe e filha = EM ANDAMENTO
 //        9) e usar scanner para acionar metodos = EM ANDAMENTO
 
-        // duvidas
+            // duvidas
 
-        // 01 -
-        // 02 -
-        // 03 -
-        // 04 -
-        // 05 -
+            // 01 -
+            // 02 -
+            // 03 -
+            // 04 -
+            // 05 -
 
 //        Orientacao a objeto
 //        encapsulamento
@@ -82,7 +80,8 @@ public class Main {
 
 //        listas -> outra aula
 
+        }
+
+
     }
-
-
 }
